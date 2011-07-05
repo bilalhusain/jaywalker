@@ -8,9 +8,10 @@ Jaywalker is your socially retarded self who likes to creep into socially apt pe
 * Repeat for friends in circle
 * Profit
 
-This project was meant to be a concept and has skipped design decisions like optimization or consideration for memory or CPU. And, yeah, definitely not for skiddies. (It can screw up your OS while summoning viruses and death!!!)
+*Note* It's a quick hack. A 3.14 out of 10 code by github standard.
 
 To run:
+
     $MONGO_HOME/bin/mongod -dbpath .
     coffee jaywalker.coffee
 
